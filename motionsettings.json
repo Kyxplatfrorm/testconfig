@@ -1,0 +1,20 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+ "EncryptionKey"    : "XJT0P1aYRluS/J7xw72lqnFgYZlLeP904zVFVTnij/O5MERTKETu47tQnCHAbn9r9dWXYOLgXCpHDikb+giHAup9QEjsi92kScxBfqvjxac=",
+ "DataEncryptionKey": "9H4XDjQd5+ZM/lXPExE94DGWNt7h3qax6iNPQLAvefJCrOrEJMVqrr7psYSVrl2a+eHc2flzIRnYVcYePj2FNHd1zYgPaRGtBH9SIgdaeFs=",
+ "JwtSecretKey"     : "LonsegBmFxX9YCJ9XasmSnoW4l/eZGoF7wkwiuIPChV5iPzZLv9HjJ1LVR3v32uV",
+ "ConnectionStrings": {
+   "DefaultConnection": {
+      "DatabaseType": "PostgreSql",
+      "IsEncrypted" : "true",
+      "ConnectionString": "LZbn8bUTj1rzqMZOH9lTtWBrQLvBj8kFtMPJHO66R5hhESK3wqxgA7I+ugOl9aomsQ/fboA/Saj13kGhAXpEvmpS+6Z2AgLeI1lAre+nR/WpwwJK0A7PjIP5dmPE/i5d2BNMjlCLbC4XPa/m55LnnnNJ1+WwEq1qj7y8Ndj7It+6QR5hyAmk2mfsTxGzeWvy"
+    }
+  }
+}
