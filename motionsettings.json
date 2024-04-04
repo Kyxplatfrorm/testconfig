@@ -15,6 +15,11 @@
       "DatabaseType": "PostgreSql",
       "IsEncrypted" : "true",
       "ConnectionString": "LZbn8bUTj1rzqMZOH9lTtWBrQLvBj8kFtMPJHO66R5hhESK3wqxgA7I+ugOl9aomsQ/fboA/Saj13kGhAXpEvmpS+6Z2AgLeI1lAre+nR/WpwwJK0A7PjIP5dmPE/i5d2BNMjlCLbC4XPa/m55LnnnNJ1+WwEq1qj7y8Ndj7It+6QR5hyAmk2mfsTxGzeWvy"
+    },
+   "TokenConnection": {
+      "DatabaseType": "PostgreSql",
+      "IsEncrypted" : "true",
+      "ConnectionString": "D3C/IQlULWdZP8sZ5JiuL0H59Pak1TKPBz1ZtJXi6Gb/0Aq3vejmonRY616zQxkKGXE/HmPeLHc+YVkBOwvb1Z4ZkJtWufleZIiBpYag3Ogw7j0P5DpgnEPqKxhEWgsAF9X5oloNw2ai1p4ma1DTskwwKinZseRCCPK35SCStthIqTZ18uJkeefXPQQrJpNlKVlvUmw9eErlZSZS0IXCug=="
     }
   }
 }
